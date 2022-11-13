@@ -21,4 +21,4 @@ Requires PHP: 7.2, 7.3
 == Changelog ==
 
 = 1.0 =
-* First Release
+* First Release 
